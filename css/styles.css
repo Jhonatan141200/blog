@@ -2,7 +2,7 @@ body {
   text-align: center;
   font-family: 'Courier New';
   font-size: 25px;
-  color: #3fb75d;
+  color: #d0da13;
 }
 .container {
   margin: 0 auto;
@@ -13,7 +13,7 @@ body {
   margin: 0;
   padding: 0.5px;
   text-align: left;
-  background-color: #144082;
+  background-color: #4ec052;
 }
 .cabezera p {
   color: #fff;
