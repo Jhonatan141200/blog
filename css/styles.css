@@ -2,5 +2,10 @@ body {
   text-align: center;
   font-family: Consolas, "Courier New", monospace;
   font-size: 25px;
-  color: #e9269b;
+  color: #161215;
+}
+.container {
+  margin: 0 auto;
+  width: 70%;
+  border: 1px solid #d0d0d0;
 }
